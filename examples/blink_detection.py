@@ -83,6 +83,8 @@ def main():
         if key == ord("q"):
             break
 
+def new():
+    print("test")
 def get_ear(eye):
 
 	# compute the euclidean distances between the two sets of
@@ -102,4 +104,5 @@ def get_ear(eye):
 
 if __name__ == "__main__":
     main()
+
 
