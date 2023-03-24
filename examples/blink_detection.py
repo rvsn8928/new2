@@ -84,7 +84,7 @@ def main():
             break
 
 def new():
-    print("test")
+    a=5+1
 def get_ear(eye):
 
 	# compute the euclidean distances between the two sets of
