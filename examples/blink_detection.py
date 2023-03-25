@@ -94,7 +94,7 @@ def get_ear(eye):
  
 	# compute the euclidean distance between the horizontal
 	# eye landmark (x, y)-coordinates
-	break;
+	fifth
 	# compute the eye aspect ratio
 	ear = (A + B) / (2.0 * C)
  
