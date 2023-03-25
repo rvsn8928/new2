@@ -82,6 +82,8 @@ def main():
         key = cv2.waitKey(1) & 0xFF
         if key == ord("q"):
             break
+def new1():
+    a=7+1
 
 def new():
     a=7+1
