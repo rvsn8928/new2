@@ -87,6 +87,8 @@ def new1():
 
 def new():
     a=7+1
+def new2():
+    a=7+1
 def get_ear(eye):
 
 	# compute the euclidean distances between the two sets of
