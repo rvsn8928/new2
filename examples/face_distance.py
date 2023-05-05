@@ -27,7 +27,7 @@ known_encodings = [
 
 def test():
     a=b+c
-    c=d+e
+    f=1+90
     
 
 # Load a test image and get encondings for it
