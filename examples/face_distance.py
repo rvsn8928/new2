@@ -28,7 +28,7 @@ known_encodings = [
 def test():
     a=b+c
     c=d+e
-    e=f+g
+    
 
 # Load a test image and get encondings for it
 image_to_test = face_recognition.load_image_file("obama2.jpg")
