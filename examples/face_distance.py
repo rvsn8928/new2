@@ -30,6 +30,10 @@ def test():
     f=1+90
     c=1+1
 
+def branch1():
+    a=b+c
+    f=1+90
+    c=1+1
 def main():
     a=b+c
     f=1+90
