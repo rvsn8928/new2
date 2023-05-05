@@ -1,3 +1,5 @@
+from calendar import c
+from math import e
 import face_recognition
 
 # Often instead of just checking if two faces match or not (True or False), it's helpful to see how similar they are.
@@ -22,6 +24,11 @@ known_encodings = [
     obama_face_encoding,
     biden_face_encoding
 ]
+
+def test():
+    a=b+c
+    c=d+e
+    e=f+g
 
 # Load a test image and get encondings for it
 image_to_test = face_recognition.load_image_file("obama2.jpg")
